@@ -25,6 +25,9 @@
               }
             ],
             "styles": [
+              "node_modules/@lichess-org/assets/css/chessground.base.css",
+              "node_modules/@lichess-org/assets/css/chessground.brown.css",
+              "node_modules/@lichess-org/assets/css/chessground.cburnett.css",
               "src/styles.css"
             ]
           },
